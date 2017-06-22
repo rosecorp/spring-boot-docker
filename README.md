@@ -1,5 +1,3 @@
-=== Build a Docker Image with Maven
+Build a Docker Image with Maven
 
-----
 $ mvn package docker:build
-----
